@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<records>
+  <record reference="177666">
+    <accountNumber>NL93ABNA0585619023</accountNumber>
+    <description>Flowers for Rik Theuß</description>
+    <startBalance>44.85</startBalance>
+    <mutation>-22.24</mutation>
+    <endBalance>22.61</endBalance>
+  </record>
+  <record reference="112806">
+    <accountNumber>NL69ABNA0433647324</accountNumber>
+    <description>Subscription for Jan Theuß</description>
+    <startBalance>45.59</startBalance>
+    <mutation>48.18</mutation>
+    <endBalance>93.77</endBalance>
+  </record>
+  <record reference="158338">
+    <accountNumber>NL91RABO0315273637</accountNumber>
+    <description>Tickets for Vincent King</description>
+    <startBalance>12.76</startBalance>
+    <mutation>-39.5</mutation>
+    <endBalance>-26.74</endBalance>
+  </record>
+  <record reference="193499">
+    <accountNumber>NL93ABNA0585619023</accountNumber>
+    <description>Candy for Daniël Dekker</description>
+    <startBalance>88.44</startBalance>
+    <mutation>-13.28</mutation>
+    <endBalance>75.16</endBalance>
+  </record>
+  <record reference="112806">
+    <accountNumber>NL90ABNA0585647886</accountNumber>
+    <description>Clothes from Peter de Vries</description>
+    <startBalance>32.76</startBalance>
+    <mutation>49.03</mutation>
+    <endBalance>81.79</endBalance>
+  </record>
+  <record reference="112806">
+    <accountNumber>NL91RABO0315273637</accountNumber>
+    <description>Tickets for Erik Dekker</description>
+    <startBalance>41.63</startBalance>
+    <mutation>12.41</mutation>
+    <endBalance>54.04</endBalance>
+  </record>
+  <record reference="108230">
+    <accountNumber>NL32RABO0195610843</accountNumber>
+    <description>Flowers for Willem Bakker</description>
+    <startBalance>43.63</startBalance>
+    <mutation>-12.18</mutation>
+    <endBalance>31.45</endBalance>
+  </record>
+  <record reference="196213">
+    <accountNumber>NL32RABO0195610843</accountNumber>
+    <description>Subscription from Rik de Vries</description>
+    <startBalance>30.36</startBalance>
+    <mutation>-35.1</mutation>
+    <endBalance>-4.74</endBalance>
+  </record>
+  <record reference="109762">
+    <accountNumber>NL93ABNA0585619023</accountNumber>
+    <description>Flowers from Rik de Vries</description>
+    <startBalance>47.45</startBalance>
+    <mutation>17.82</mutation>
+    <endBalance>65.27</endBalance>
+  </record>
+  <record reference="163590">
+    <accountNumber>NL27SNSB0917829871</accountNumber>
+    <description>Tickets from Rik Bakker</description>
+    <startBalance>105.11</startBalance>
+    <mutation>29.87</mutation>
+    <endBalance>134.98</endBalance>
+  </record>
+</records>
