@@ -23,7 +23,7 @@ public class writeXML {
 		this.outputfile = foutputFile;
 	}
 
-	public void writeAsXml(List<Record> frecords) {
+	public File writeAsXml(List<Record> frecords) {
 
 		XMLOutputFactory xmlOutputFactory = XMLOutputFactory.newInstance();
 
@@ -93,6 +93,7 @@ public class writeXML {
 		} catch (XMLStreamException | FileNotFoundException e) {
 			e.printStackTrace();
 		}
+		return outputfile;
 	}
 
 	private static void createNode(XMLEventWriter eventWriter, String element, String value) throws XMLStreamException {
